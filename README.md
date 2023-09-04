@@ -43,8 +43,7 @@ This paper focuses on research about membership inference attack and defense in 
 ### Attack Papers 2018 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Setting （black or white） | Realm  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2018 | **Privacy Risk in Machine Learning: Analyzing the Connection to Overfitting** | Black-box | Classification Models | CSF | [Link](https://ieeexplore.ieee.org/abstract/document/8429311?casa_token=NQu6-mEb9JMAAAAA:LTU3BPSYc8ALHF89ifdWs1zl__ABgBzIr44xFoN2t8HwjTb5vm20S00VeH9JSmaBU-miBt5Ucg) | [Link](https://github.com/samuel-yeom/ml-privacy-csf18) |
-| 2018 | **Understanding membership inferences on well-generalized learning models** | Black-box | Classification Models | Arxiv | [link](https://arxiv.org/abs/1802.04889) | |
+
 
 ### Attack Papers 2017 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Setting （black or white） | Realm  |   Venue  | Paper Link  | Code Link |
