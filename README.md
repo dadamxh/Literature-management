@@ -55,7 +55,7 @@ This paper focuses on research about membership inference attack and defense in 
 ### Defense Papers 2023 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Setting （black or white） | Realm  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-
+| 2023  | **Overconfidence is a Dangerous Thing: Mitigating Membership Inference Attacks by Enforcing Less Confident Prediction** | Black-box | Classification Models | Arxiv | [link](https://arxiv.org/abs/2307.01610) |  [Link]([https://github.com/csong27/membership-inference](https://github.com/DependableSystemsLab/MIA_defense_HAMP)) |
 
 ### Defense Papers 2022 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Setting （black or white） | Realm  |   Venue  | Paper Link  | Code Link |
